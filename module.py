@@ -1,3 +1,3 @@
 def add():
-    print("Welcome")
+    print("welcome")
 add()
